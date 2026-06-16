@@ -1,0 +1,1 @@
+# Cria-o-de-sistema-de-vendas-em-Python-utilizando-o-terminal.
